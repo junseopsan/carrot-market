@@ -112,6 +112,4 @@ const Enter: NextPage = () => {
   );
 };
 
-
-
 export default Enter;
